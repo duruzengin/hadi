@@ -1,0 +1,3 @@
+/Users/duruzengin_1/Dropbox (Politecnico Di Torino Studenti)/Mac/Desktop/POLİTO/linkeed_list3/cmake-build-debug/CMakeFiles/linkeed_list3.dir
+/Users/duruzengin_1/Dropbox (Politecnico Di Torino Studenti)/Mac/Desktop/POLİTO/linkeed_list3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/duruzengin_1/Dropbox (Politecnico Di Torino Studenti)/Mac/Desktop/POLİTO/linkeed_list3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
